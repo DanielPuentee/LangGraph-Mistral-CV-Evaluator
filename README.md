@@ -1,6 +1,6 @@
 # LangGraph-Mistral-CV-Evaluator
 
-<img title="Logo" alt="Alt text" src="/imgs/log.svg">
+<img title="Logo" alt="Alt text" src="/imgs/logo.png">
 
 ## Description
 Build a multi-agent system that evaluates CVs against job offers. Using LangGraph and Mistral, this project processes resumes, determines candidate fit, and generates email drafts for acceptance or rejection. It's an excellent starting point for learning LangGraph dynamics with a practical and impactful use case.
