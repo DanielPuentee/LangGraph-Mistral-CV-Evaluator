@@ -1,0 +1,91 @@
+Daniel Puente Viejo
++34 638 097 547
+daniel.puenteviejo@gmail.com
+https://github.com/DanielPuentee | https://www.linkedin.com/in/danielpuenteviejo | https://medium.com/@daniel.puenteviejo | https://huggingface.co/D0k-tor
+
+---
+
+PROFESSIONAL EXPERIENCE
+
+NTT Data
+➢ Clients: Cepsa, Repsol, Unsere Grüne Glasfaser, RED.es, BBVA, NTT Data (Intern client)
+
+External Senior AI Engineer at Repsol; Bilbao, Spain
+*10/2024 - Present*
+- Led the design of Repsol's cross AI Multi-Agent platform and LLMOps platform, including LLM API Management, to support scalable generative AI applications (Azure-oriented solutions).
+- Designed and managed the technical design of multiple Gen AI MVPs, driving innovation in all business areas.
+
+Generative AI II Engineer; Bilbao, Spain
+*05/2024 - 10/2024*
+- Developer of a Generative AI platform on AWS, valued at €25M, for the Spanish Ministry of Digital Transformation (AWS Architecture, RAG, clause extraction, plagiarism detection...).
+- Reduced amendment generation time by 95% by developing LLM and OCR techniques implemented in AWS.
+
+Generative AI I Engineer; Bilbao, Spain
+*09/2023 - 05/2024*
+- Reduced time for legal information search, generation, and question answering by 90% through the creation of a RAG system using Azure Cognitive Services (Repsol's first generative AI use case).
+- Led the improvement of executive information search time through a RAG system using Dolffia and OpenAI Whisper.
+
+Junior Artificial Intelligence Engineer (Intern); Bilbao, Spain
+*09/2022 - 07/2023*
+- Improved explainability and precision (~80%) of credit fraud detection by applying Azure ML and GNN.
+- Encouraged learning by creating an AI initiative with over 20 current members.
+  - Developed a contact detection algorithm for the NFL using Azure ML.
+  - Applied diffusion algorithms for automatic image description.
+
+Navarra University
+Data Science Professor; Pamplona, Spain
+*09/2023 - Present*
+- Develop Generative AI course for BBVA Data Scientists (RAG, LLM fine-tuning, and RAG evaluation).
+- Professor of Data Science in the Business + Data Analytics and Economics + Data Analytics double degree programmes.
+
+Mondragon University
+➢ Clients: BBVA, Ormazabal, Sener, Laboral Kutxa, Mondragon Corporation, Lookiero…
+
+Student Data Scientist; Bilbao, Spain
+*09/2019 - 12/2022*
+- Achieved 0% risk of lithium-ion battery explosion by developing LSTM + GAN models.
+- Reduced cost by 15% and improved engine design efficiency by 2% using evolutionary algorithms and RL.
+- Developed an automatic fashion look recommendation system using graph neural networks (GNN).
+- 42%-time reduction of Monte Carlo simulations using Recurrent Neural Networks.
+
+---
+
+EDUCATION
+
+Master of Science in Artificial Intelligence - UNIR; Online
+*10/2023 - 08/2024*
+Final Mark: 9,5/10 · A+ | MSc Thesis: Implementation and Evaluation of a RAG System for the Resolution of Legal Queries.
+
+Bachelor of Science in AI & Data Analytics - Mondragon University (1º Promotion); Bilbao, Spain
+*09/2019 - 07/2023*
+Final Mark: 9,0/10 · A | BSc Thesis: Simulation of a graph-based fraud detection algorithm deployed in a production Azure.
+
+Bachelor of Science in Mathematical Sciences - Essex University; Colchester, England
+*04/2022 - 07/2022*
+Final Mark: 8,6/10 · B+
+
+---
+
+LANGUAGES
+- Spanish (Native)
+- English (Cambridge Certificate Advanced English, C1)
+- Basque (B2)
+
+---
+
+SKILLS
+- Programming: Python • R • SQL
+- AI Frameworks: Langchain • CrewAI • Ollama • Hugging Face • Pytorch
+- Cloud: Azure • AWS • Azure AI Services • Bedrock
+- Other utilities: Finetuning • RAG • CUDA • Git • Databricks • GNN • QLoRA
+
+---
+
+AWARDS & HONOURS
+Certifications and Personal Projects
+- Completed over 30 courses in AI, including Microsoft Certified: DP-100, AI-102, DP-900 & AI-900.
+- Selected among the 5 best Bachelor Thesis out of 300 candidates in the Mondragon Corporation Awards.
+- Selected as one of around 250 participants in the Bizkaia Talent program “attracting young talents”.
+- Scholarship for academic excellence (2019).
+
+---

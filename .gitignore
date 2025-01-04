@@ -1,0 +1,17 @@
+# Env
+.env
+
+# Caches de Python
+__pycache__/
+.pytest_cache/
+*.pytest_cache/
+
+
+# Archivos de Jupyter Notebook
+langgraph_parallel.ipynb
+
+# Drawings
+*.drawio
+
+# medium_files folder
+medium_files/
