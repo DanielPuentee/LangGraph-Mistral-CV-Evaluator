@@ -1,4 +1,4 @@
-# LangGraph-Mistral-CV-Evaluator
+# LangGraph + Mistral CV Evaluator Agent System
 
 <img title="Logo" alt="Alt text" src="/imgs/logo.png">
 
@@ -12,3 +12,12 @@ Build a multi-agent system that evaluates CVs against job offers. Using LangGrap
 - **CV Evaluation**: Compares resumes to job descriptions to assess candidate suitability.
 - **Email Automation**: Automatically generates draft emails with personalized feedback.
 - **Powered by LangGraph and Mistral**: Uses LangGraph for multi-agent management and Mistral for free LLM integration.
+
+---
+
+## Requirements
+- **Python used version: 3.10.15**
+
+```python
+pip install -r requirements.txt
+```

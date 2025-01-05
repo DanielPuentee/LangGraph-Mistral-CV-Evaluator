@@ -1,33 +1,20 @@
-Research Internships at Microsoft provide a dynamic environment for research careers with a network of world-class research labs led by globally-recognized scientists and engineers, who pursue innovation in a range of scientific and technical disciplines to help solve complex challenges in diverse fields, including computing, healthcare, economics, and the environment.
+MAIgents' Web Intelligence team develops cutting-edge AI-powered services that improve user experiences across MAIgents Search and MAIgents Navigator. Our mission is to deliver innovative solutions that save time, provide valuable insights, and drive user satisfaction in a secure online environment.
 
-Gray Systems Lab (GSL) is an applied research lab under Azure Data. We do research and development for databases, big-data, and cloud systems and work in close collaboration with product teams to design innovative solutions for real-world problems. Our inclusive and welcoming team currently has focus areas in topics such as query optimization and execution, large and small language models, agents and agentic workflows, machine learning for systems, systems for machine learning, data science, resource management, storage systems, modern/future hardware (e.g. Non-volatile memory (NVM) and field-programmable gate arrays (FPGAs)), program analysis, cross system optimization, and data provenance, all centered around both internal and open-source systems such as Spark, Structured Query Language (SQL) Server, MySQL, Hadoop, MLFlow, Open Neural Network Exchange (ONNX), and others. There are opportunities to work on ideas from internal, as well as external, collaborations with partner universities and to continue to be an active scholar in the research community.
+**MAIgents Shop** is a dynamic platform that brings together products from various sellers, offering users a streamlined shopping experience. Through advanced AI technologies, MAIgents Shop delivers accurate search results, personalized recommendations, and valuable product insights like reviews and price trends.
 
-The GSL team is looking for Research Interns who are interested in cutting edge research in close collaboration with advanced industry product groups. Past Research Internships have resulted in a combination of impact on production systems and publications at top conferences. Applicants should demonstrate a track record in one or more systems or data science topics and an aptitude for hands-on system building and design methodology to run and analyze experiments at scale.
+We are looking for a **Data & Applied Scientist II** to join our team and contribute to the development of algorithms, models, and insights that enhance our search and shopping capabilities. If you’re passionate about data and innovation, this is your opportunity to make a global impact.
 
-Microsoft’s mission is to empower every person and every organization on the planet to achieve more. As employees we come together with a growth mindset, innovate to empower others, and collaborate to realize our shared goals. Each day we build on our values of respect, integrity, and accountability to create a culture of inclusion where everyone can thrive at work and beyond. We are open to all individuals and thrive on an inclusive environment and work culture. Neurodivergent individuals are encouraged to apply.
+**Responsibilities**
+- Design and optimize algorithms to improve search results and recommendations.
+- Analyze large datasets to identify trends and build predictive models.
+- Collaborate with engineers and product managers to enhance platform performance.
+- Conduct experiments and A/B tests to evaluate and refine algorithms.
+- Present insights and recommendations to stakeholders.
 
-Responsibilities
+**Qualifications**
+- Bachelor’s degree in a related field and experience in data science or machine learning.
+- Proficiency in Python; familiarity with SQL and other tools is a plus.
+- Strong problem-solving skills and ability to work in a team-oriented environment.
+- Knowledge of A/B testing and recommendation systems is preferred.
 
-Research Interns put inquiry and theory into practice. Alongside fellow doctoral candidates and some of the world’s best researchers, Research Interns learn, collaborate, and network for life. Research Interns not only advance their own careers, but they also contribute to exciting research and development strides. During the 12-week internship, Research Interns are paired with mentors and expected to collaborate with other Research Interns and researchers, present findings, and contribute to the vibrant life of the community. Research internships are available in all areas of research, and are offered year-round, though they typically begin in the summer.
-
-Qualifications
-
-Required/Minimum Qualifications:
-
-Currently enrolled in a PhD or master's program in Computer Science, Statistics, Mathematics, or related STEM field.
-You must be legally authorised to work in Spain to be eligible for this role. (Legally authorised = Has citizenship or has been granted a valid visa or work permit)
-
-Other Requirements:
-
-Research Interns are expected to be physically located in their manager’s Microsoft worksite location for the duration of their internship.
-In addition to the qualifications below, you’ll need to submit a minimum of two reference letters for this position as well as a cover letter and any relevant work or research samples. After you submit your application, a request for letters may be sent to your list of references on your behalf. Note that reference letters cannot be requested until after you have submitted your application, and furthermore, that they might not be automatically requested for all candidates. You may wish to alert your letter writers in advance, so they will be ready to submit your letter.
-
-Preferred/Additional Qualifications
-
-Experience with one of the following PostgreSQL, MySQL, SQL Server, Spark, or other databases or big data systems.
-Experience contributing to research communities and/or efforts, including publishing papers (being listed as author) at academic conferences.
-Experience with one or more general purpose programming languages such as Python, Java, C#, C++.
-Takes initiative, but also follows a research/productization plan and work well as part of a team.
-Proficient critical thinking and communication skills.
-
-Microsoft is an equal opportunity employer. Consistent with applicable law, all qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance and/or a reasonable accommodation due to a disability during the application process, read more about requesting accommodations.
+Join MAIgents and shape the future of online shopping!
