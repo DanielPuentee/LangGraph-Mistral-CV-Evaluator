@@ -1,4 +1,4 @@
-# LangGraph + Mistral CV Evaluator Agent System
+# LangGraph + Mistral - CV Evaluator Agent System
 
 <img title="Logo" alt="Alt text" src="/imgs/logo.png">
 
