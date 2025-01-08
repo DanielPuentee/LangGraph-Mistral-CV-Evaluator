@@ -9,6 +9,7 @@
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 [![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff)](#)
 
+> Author: [Daniel Puente Viejo](https://www.linkedin.com/in/danielpuenteviejo/)
 
 ## Description
 Build a multi-agent system that evaluates CVs against job offers. Using LangGraph and Mistral, this project processes resumes, determines candidate fit, and generates email drafts for acceptance or rejection. It's an excellent starting point for learning LangGraph dynamics with a practical and impactful use case.
@@ -24,8 +25,13 @@ Build a multi-agent system that evaluates CVs against job offers. Using LangGrap
 ---
 
 ## Requirements
-- **Python used version: 3.10.15**
+- Python used version: **3.10.15**
 
 ```python
 pip install -r requirements.txt
 ```
+
+---
+
+## 📜 License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
