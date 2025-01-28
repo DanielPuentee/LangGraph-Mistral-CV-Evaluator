@@ -2,6 +2,7 @@
 
 <img title="Logo" alt="Alt text" src="/imgs/logo.png">
 
+![python](https://img.shields.io/badge/Python-v3.10.15-blueviolet)
 ![GitHub top language](https://img.shields.io/github/languages/top/DanielPuentee/LangGraph-Mistral-CV-Evaluator)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
